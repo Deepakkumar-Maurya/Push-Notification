@@ -1,0 +1,1 @@
+console.log('This is from the service worker 1');
